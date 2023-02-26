@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63b13b2750267011bebf32be"
+  },
+  "name": "admin of the site",
+  "email": "admin@walla.com",
+  "password": "$2b$10$PahBA5GKukeCIRqKKiCPheWSiTJD1Yrx.oi5kRlImW/I/w1DDyKgK",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672559227567"
+    }
+  },
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b13b6050267011bebf32c2"
+  },
+  "name": "koko",
+  "email": "koko@walla.com",
+  "password": "$2b$10$OoK4wXJyXt9BMue01ObQJ.1QzZj7TQPKxb1eeLj3B1WYU.N0RIwle",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1672559227567"
+    }
+  },
+  "role": "user",
+  "__v": 0
+}]

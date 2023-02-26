@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "6370d3aa50e323dc5222d781"
+  },
+  "name": "Bill clinton",
+  "email": "bill@walla.com",
+  "password": "$2b$10$5Uyeg9PrqzvOco0x6vztHucSEOwY1APTTx56s3UscKLBVmpudwmOq",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1668338598487"
+    }
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63679e617def8255a29f007f"
+  },
+  "name": "George bush",
+  "email": "bush@walla.com",
+  "password": "$2b$10$ruAke9CtUTEuhgbAqTpg3ePmu6LdV2UKXzO.LIBX0EO0HrOzwml86",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1667734979480"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6367993d0a1797a241ee9270"
+  },
+  "name": "Joe biden",
+  "email": "biden@walla.com",
+  "password": "$2b$10$hPqImhChjcRul6lUGku2sucsxt6LZlERjxllDVHVEd787g1JgzLA2",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1667733628854"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63679b359e17b23da5103282"
+  },
+  "name": "Barak obama",
+  "email": "barak@walla.com",
+  "password": "$2b$10$B8A7YGcdY1rR/.hUOWEUp.QkdTotgt.shco6slQ4oONow77MG1AIK",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1667734301130"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636798fe0a1797a241ee926e"
+  },
+  "name": "Donald trump",
+  "email": "donald@walla.com",
+  "password": "$2b$10$PkpjZHbGknCHm1.qu4uy5OPYCJuAFPOegZhVnxpzJYzV3Zzo13sbC",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1667733628854"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379dcb74a095c14bd595c43"
+  },
+  "name": "George bush the father",
+  "email": "bush2@walla.com",
+  "password": "$2b$10$EUoEB.bLmtAF/N7/9s2Z2Odoa4IkVAYAW1/gQb04AIzA/0XLbfWem",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1668930578263"
+    }
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638319fc92ea535958197116"
+  },
+  "name": "ronald reagan",
+  "email": "reagan@walla.com",
+  "password": "$2b$10$AVaKaBbtLzkTN31F.laZeeTiQU3ysDwRN/WKUFdG647h84vVjdeBm",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1669536103954"
+    }
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c59b1dce9dff65c022291"
+  },
+  "name": "jacob ben yitzhak",
+  "email": "jacob@walla.com",
+  "password": "$2b$10$AJb0RZIIoEaplFj2FoHb1utrtLET2xwJsKAta1YJ4Id8v3dnwRtrC",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1670142379005"
+    }
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638c5b67dce9dff65c022295"
+  },
+  "name": "David ben yishay",
+  "email": "david@walla.com",
+  "password": "$2b$10$NWwSI.4ERkkltGB9kxS2hu84W0MMR6RWzJkmp5MwCDHse07QzARc2",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1670142379005"
+    }
+  },
+  "role": "user",
+  "__v": 0
+}]
